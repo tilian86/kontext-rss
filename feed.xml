@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>KONTEXT:Wochenzeitung</title>
     <link>https://www.kontextwochenzeitung.de/</link>
     <description>Investigativer Regionaljournalismus aus Stuttgart/BW</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Mar 2026 01:06:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 14:17:48 +0000</lastBuildDate>
     <ns0:link href="https://tilian86.github.io/kontext-rss/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>"Mir bricht es das Herz"</title>
@@ -14,6 +14,8 @@
       <description>Das Desaster der baden-württembergischen SPD bei der Landtagswahl am 8. März wühlt die Parteimitglieder auf. Zumindest die jüngeren. Juso-Landeschef Daniel Krusic fordert den Rücktritt von Sascha Binder vom Fraktionsvorsitz und eine Abkehr von der Funktionärspartei.</description>
       <category>Politik</category>
       <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/0/a/csm_juso-jre-20250705-SPD_Landesparteitag-IM3_6140_eeb63711fb.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/0/a/csm_juso-jre-20250705-SPD_Landesparteitag-IM3_6140_eeb63711fb.jpg" medium="image" type="image/jpeg" />
     </item>
     <item>
       <title>Und noch eine Hagelei</title>
@@ -30,6 +32,8 @@
       <description>Katherina Reiche boykottiert SolarenergieMehr Energiewende statt fossile Fesseln18.03.2026Bundeswirtschaftsministerin Katherina Reiche will offenbar die erneuerbaren Energien schwächen. Würden ihre Pläne verwirklicht, schaden sie Klima, Wirtschaft, Sicherheit und Bürgerschaft. Ein Appell an die Vern</description>
       <category>Debatte</category>
       <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/3/f/csm_EWS-jv_260220-8366_81fb9c4870.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/3/f/csm_EWS-jv_260220-8366_81fb9c4870.jpg" medium="image" type="image/jpeg" />
     </item>
     <item>
       <title>Dem Anfang wohnt kein Zauber inne</title>
@@ -38,6 +42,8 @@
       <description>Mit der Behauptung, die Grünen vergifteten das Klima in Baden-Württemberg, vergiftet die CDU das Klima. Und die gemeinsame Arbeit in den vergangenen fünf Koalitionsjahren wird umgedichtet in eine phantasievolle Story von anhaltender Nötigung.</description>
       <category>Politik</category>
       <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/3/3/csm_SG-jre-20260309-LTW-IM3_5117_6759e67165.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/3/3/csm_SG-jre-20260309-LTW-IM3_5117_6759e67165.jpg" medium="image" type="image/jpeg" />
     </item>
     <item>
       <title>Zwangloser Zwang</title>
@@ -54,6 +60,8 @@
       <description>Einem geplanten Symposium des Württembergischen Kunstvereins war ein antiisraelisches Programm vorgeworfen worden, und die Stadt Stuttgart strich ihre Fördergelder. Dank Crowdfunding fand es nun doch statt, war nicht allzu skandalös – aber etwas einseitig.</description>
       <category>Gesellschaft</category>
       <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/c/9/csm_WKV-jre-20260314-WKV-IM3_6037_0e34948a46.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/c/9/csm_WKV-jre-20260314-WKV-IM3_6037_0e34948a46.jpg" medium="image" type="image/jpeg" />
     </item>
     <item>
       <title>Königin mit Rädern untendran</title>
@@ -62,6 +70,8 @@
       <description>Radfahren befreitKönigin mit Rädern untendran18.03.2026Die Reaktionären machen es den Leuten madig, auf dem Rad zu fahren. Schon seit das Veloziped erfunden wurde. Aber Fortschritt lässt sich nicht aufhalten, findet unser Kolumnist. Vor allem, wenn mutige Frauen vorneweg radeln.</description>
       <category>Kolumne</category>
       <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/0/5/csm_kolumne_Sautter_tuerkis_eaa5b0b5ef.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/0/5/csm_kolumne_Sautter_tuerkis_eaa5b0b5ef.jpg" medium="image" type="image/jpeg" />
     </item>
     <item>
       <title>Erzählen mit der Kamera</title>
@@ -70,6 +80,8 @@
       <description>Die Kunsthalle Göppingen zeigt in zwei parallelen Ausstellungen die Werke bedeutender ostdeutscher Fotograf:innen: die erste Werkschau zu Sibylle Bergemann im Südwesten und auf Schloss Filseck Bilder ihres Lebensgefährten Arno Fischer. Beiden eigen ist ein sehr direkter, reportagehafter Stil.</description>
       <category>Schaubühne</category>
       <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/1/8/csm_B-Sibylle_Bergemann_Birgit__Berlin_1984_Estate_Sibylle_BergemannOstkreuz__courtesy_Loock_Berlin_d5e8455c76.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/1/8/csm_B-Sibylle_Bergemann_Birgit__Berlin_1984_Estate_Sibylle_BergemannOstkreuz__courtesy_Loock_Berlin_d5e8455c76.jpg" medium="image" type="image/jpeg" />
     </item>
   </channel>
 </rss>
