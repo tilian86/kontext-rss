@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Scrape KONTEXT:Wochenzeitung and generate an RSS feed."""
+"""Scrape KONTEXT:Wochenzeitung and generate an RSS feed with images."""
 
 import re
 import xml.etree.ElementTree as ET
@@ -38,6 +38,7 @@ def scrape_articles():
         category = ""
         teaser = ""
         pub_date = ""
+        image = ""
         if article_el:
             cat_el = article_el.find(class_=re.compile(r"category|rubrik"))
             if cat_el:
@@ -52,7 +53,26 @@ def scrape_articles():
                     pub_date = dt.strftime("%a, %d %b %Y 06:00:00 +0100")
                 except ValueError:
                     pass
-        articles.append({"title": title, "url": url, "category": category, "teaser": teaser, "pub_date": pub_date})
+            # Extract image from picture>source or img
+            pic = article_el.find("picture")
+            if pic:
+                source = pic.find("source")
+                if source and source.get("srcset"):
+                    srcset = source["srcset"].split(",")[0].strip()
+                    if srcset.startswith("/"):
+                        srcset = SITE_URL.rstrip("/") + srcset
+                    image = srcset
+            if not image:
+                img = article_el.find("img", src=re.compile(r"/fileadmin/"))
+                if img:
+                    src = img["src"]
+                    if src.startswith("/"):
+                        src = SITE_URL.rstrip("/") + src
+                    image = src
+        articles.append({
+            "title": title, "url": url, "category": category,
+            "teaser": teaser, "pub_date": pub_date, "image": image,
+        })
     return articles
 
 
@@ -60,6 +80,7 @@ def build_rss(articles):
     now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
     rss = ET.Element("rss", version="2.0")
     rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
+    rss.set("xmlns:media", "http://search.yahoo.com/mrss/")
     channel = ET.SubElement(rss, "channel")
     ET.SubElement(channel, "title").text = FEED_TITLE
     ET.SubElement(channel, "link").text = SITE_URL
@@ -81,6 +102,15 @@ def build_rss(articles):
             ET.SubElement(item, "category").text = article["category"]
         if article["pub_date"]:
             ET.SubElement(item, "pubDate").text = article["pub_date"]
+        if article["image"]:
+            enc = ET.SubElement(item, "enclosure")
+            enc.set("url", article["image"])
+            enc.set("type", "image/jpeg")
+            enc.set("length", "0")
+            media = ET.SubElement(item, "media:content")
+            media.set("url", article["image"])
+            media.set("medium", "image")
+            media.set("type", "image/jpeg")
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")
     return ET.tostring(rss, encoding="unicode", xml_declaration=True)
