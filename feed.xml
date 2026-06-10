@@ -5,112 +5,91 @@
     <link>https://www.kontextwochenzeitung.de/</link>
     <description>Investigativer Regionaljournalismus aus Stuttgart/BW</description>
     <language>de</language>
-    <lastBuildDate>Wed, 03 Jun 2026 10:50:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 09:50:13 +0000</lastBuildDate>
     <ns0:link href="https://tilian86.github.io/kontext-rss/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Investigatives wird riskanter</title>
-      <link>https://www.kontextwochenzeitung.de/medien/792/investigatives-wird-riskanter-10931.html</link>
-      <guid>https://www.kontextwochenzeitung.de/medien/792/investigatives-wird-riskanter-10931.html</guid>
-      <description>Es ist vorbei: Im Mai 2018 berichtete Kontext über Chat-Nachrichten eines Neonazis – der klagte dagegen, behauptete, es seien Fälschungen. Zuletzt wollte das Oberlandesgericht Frankfurt Genaueres zur Quelle der Chats wissen. Die gaben wir nicht preis und verloren. Nun hat der BGH unsere Beschwerde g</description>
-      <category>Medien</category>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0100</pubDate>
-      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/d/2/csm_Kari-Kampagne-Keule-neu_2500px_6f0db21f00.jpg" type="image/jpeg" length="0" />
-      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/d/2/csm_Kari-Kampagne-Keule-neu_2500px_6f0db21f00.jpg" medium="image" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Preis für Quellenschutz</title>
-      <link>https://www.kontextwochenzeitung.de/editorial/792/preis-fuer-quellenschutz-10930.html</link>
-      <guid>https://www.kontextwochenzeitung.de/editorial/792/preis-fuer-quellenschutz-10930.html</guid>
-      <description>Die gute Nachricht zuerst: Unsere Chefredakteurin Anna Hunger ist diesen Montag, 1. Juni in Berlin von der Branchenzeitschrift "Medium Magazin" als Journalistin des Jahres in der Kategorie "Chefredakteurin regional" ausgezeichnet worden. "Ihr unermüdlicher Kampf für journalistischen Quellenschutz is</description>
-      <category>Editorial</category>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kreativ à la Vonovia</title>
-      <link>https://www.kontextwochenzeitung.de/debatte/792/kreativ-a-la-vonovia-10927.html</link>
-      <guid>https://www.kontextwochenzeitung.de/debatte/792/kreativ-a-la-vonovia-10927.html</guid>
-      <description>Rechtswidrige MieterhöhungenKreativ à la Vonovia03.06.2026Irgendjemand wird schon drauf reinfallen: Vonovia erfindet Gründe für Mietaufschläge, die vor Gericht zwar nicht standhalten. Aber man muss sich wehren: Wer sich im Unwissen darauf einlässt, mehr zu zahlen, zieht die Arschkarte.</description>
-      <category>Debatte</category>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Neue Mitte selber machen</title>
-      <link>https://www.kontextwochenzeitung.de/gesellschaft/792/neue-mitte-selber-machen-10926.html</link>
-      <guid>https://www.kontextwochenzeitung.de/gesellschaft/792/neue-mitte-selber-machen-10926.html</guid>
-      <description>Das Züblin-Parkhaus in Stuttgart soll zur "Neuen Mitte Leonhardsvorstadt" werden. Doch das Projekt kommt nicht vom Fleck. Ein neuer Verein ergreift nun die Initiative. Bürger:innen wollen das Stadtentwicklungsprojekt selbst in die Hand nehmen.</description>
-      <category>Gesellschaft</category>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0100</pubDate>
-      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/8/f/csm_3Raum-jre-20260601-Zueblin-IM3_6694_f3ca759311.jpg" type="image/jpeg" length="0" />
-      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/8/f/csm_3Raum-jre-20260601-Zueblin-IM3_6694_f3ca759311.jpg" medium="image" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Per Ruderboot ans rettende Ufer</title>
-      <link>https://www.kontextwochenzeitung.de/zeitgeschehen/792/per-ruderboot-ans-rettende-ufer-10925.html</link>
-      <guid>https://www.kontextwochenzeitung.de/zeitgeschehen/792/per-ruderboot-ans-rettende-ufer-10925.html</guid>
-      <description>Für viele jüdische Geflüchtete in Frankreich war 1942 eine Bootspassage über den Genfer See in die Schweiz die letzte Hoffnung. Mehrere Hundert Menschen, auch aus dem heutigen Baden-Württemberg, konnten so den Nazi-Häschern entkommen. Ein vergessenes Kapitel der Geschichte – mit Parallelen zur Gegen</description>
-      <category>Zeitgeschehen</category>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0100</pubDate>
-      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/b/2/csm_GenferSee-Photo-PMF-barqueLugrin-Duchene-1947_a40feab712.jpg" type="image/jpeg" length="0" />
-      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/b/2/csm_GenferSee-Photo-PMF-barqueLugrin-Duchene-1947_a40feab712.jpg" medium="image" type="image/jpeg" />
-    </item>
-    <item>
-      <title>"Ich denke anders und rede anders"</title>
-      <link>https://www.kontextwochenzeitung.de/politik/792/ich-denke-anders-und-rede-anders-10929.html</link>
-      <guid>https://www.kontextwochenzeitung.de/politik/792/ich-denke-anders-und-rede-anders-10929.html</guid>
-      <description>Carsten Lotz, Kandidat für SPD-Landesvorsitz"Ich denke anders und rede anders"03.06.2026Carsten Lotz war 17 Jahre bei McKinsey, zuletzt hat er den Infrastruktursektor geleitet mit 500 Menschen aus 20 Ländern. Eine von gleich mehreren guten Voraussetzungen, findet der 49-Jährige, um die baden-württem</description>
+      <title>Bett, Brot, Seife, Menschenwürde</title>
+      <link>https://www.kontextwochenzeitung.de/politik/793/geas-10944.html</link>
+      <guid>https://www.kontextwochenzeitung.de/politik/793/geas-10944.html</guid>
+      <description>Auf keinem anderen Feld haben sich demokratische Parteien derart von Rechtsradikalen treiben lassen wie in der Migrationspolitik. Jetzt ist das Gemeinsame Europäische Asylrecht (GEAS) in Kraft. Trotzdem geht der populistische Überbietungswettbewerb immer weiter.</description>
       <category>Politik</category>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0100</pubDate>
-      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/d/4/csm_Lotz-jre-20260601-CastrenLotz-IM3_8387_648a872512.jpg" type="image/jpeg" length="0" />
-      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/d/4/csm_Lotz-jre-20260601-CastrenLotz-IM3_8387_648a872512.jpg" medium="image" type="image/jpeg" />
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/2/0/csm_GEAS-jre-20220207_EU_S_Sued-11_e388acd05e.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/2/0/csm_GEAS-jre-20220207_EU_S_Sued-11_e388acd05e.jpg" medium="image" type="image/jpeg" />
     </item>
     <item>
-      <title>Urlaub auf der Wertstoffinsel</title>
-      <link>https://www.kontextwochenzeitung.de/kolumne/792/urlaub-auf-der-wertstoffinsel-10924.html</link>
-      <guid>https://www.kontextwochenzeitung.de/kolumne/792/urlaub-auf-der-wertstoffinsel-10924.html</guid>
-      <description>Filmreife AbfallentsorgungUrlaub auf der Wertstoffinsel03.06.2026Alles ist vermüllt. Sogar unsere Hoden. Während andere Leute auf Inseln fliegen, die bald untergehen, weil Leute auf sie fliegen, macht unser Kolumnist umweltfreundlich Urlaub auf der Wertstoffinsel.</description>
-      <category>Kolumne</category>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0100</pubDate>
-      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/c/e/csm_kolumne_oettle_orange_241992bc14.jpg" type="image/jpeg" length="0" />
-      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/c/e/csm_kolumne_oettle_orange_241992bc14.jpg" medium="image" type="image/jpeg" />
+      <title>Lieblingswort: Teileröffnung</title>
+      <link>https://www.kontextwochenzeitung.de/editorial/793/lieblingswort-teileroeffnung-10943.html</link>
+      <guid>https://www.kontextwochenzeitung.de/editorial/793/lieblingswort-teileroeffnung-10943.html</guid>
+      <description>Nur noch zweieinhalb Wochen bis zur besonders schönen Kontext-Geburtstagsfeier! 15 Jahre unabhängigen Journalismus wollen wir mit all unseren Unterstützer:innen, Kolleg:innen – also mit Ihnen feiern. Auch nach 15 Jahren schreiben wir uns weiter die Finger wund, hirnen über vertrackte Geschichten, ne</description>
+      <category>Editorial</category>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>"Wir hol'n jetzt unser Haus!"</title>
-      <link>https://www.kontextwochenzeitung.de/zeitgeschehen/792/wir-holn-jetzt-unser-haus-10814.html</link>
-      <guid>https://www.kontextwochenzeitung.de/zeitgeschehen/792/wir-holn-jetzt-unser-haus-10814.html</guid>
-      <description>Anfang der 1970er gingen die Tübinger Jugendlichen auf die Barrikaden: Das Jugendzentrum in der Gartenstraße 12 sollte abgerissen werden. Sie organisierten ein Konzert mit "Ton Steine Scherben", kurz darauf war ein Haus besetzt – und existiert seitdem als Jugendzentrum in Selbstverwaltung.</description>
-      <category>Zeitgeschehen</category>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0100</pubDate>
-      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/0/7/csm_epplehaus_jr_221007_3631_6bcc5d9cb9.jpg" type="image/jpeg" length="0" />
-      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/0/7/csm_epplehaus_jr_221007_3631_6bcc5d9cb9.jpg" medium="image" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Spaltung von oben</title>
-      <link>https://www.kontextwochenzeitung.de/gesellschaft/792/spaltung-von-oben-10910.html</link>
-      <guid>https://www.kontextwochenzeitung.de/gesellschaft/792/spaltung-von-oben-10910.html</guid>
-      <description>"Arbeitsverweigerer", "Sozialtourismus", "Lifestyle-Teilzeit" – derzeit ist es in Mode, Menschen, die wenig Geld haben, zu diffamieren. Gerne tun das auch Politiker:innen. Wie kommt es dazu, dass man Menschen heute lieber beleidigt als ihnen zu helfen?</description>
+      <title>Schlaglicht auf Rechtsaußen</title>
+      <link>https://www.kontextwochenzeitung.de/gesellschaft/793/schlaglicht-auf-rechtsaussen-10942.html</link>
+      <guid>https://www.kontextwochenzeitung.de/gesellschaft/793/schlaglicht-auf-rechtsaussen-10942.html</guid>
+      <description>Kurz &amp; rechtsSchlaglicht auf Rechtsaußen10.06.2026In dieser Ausgabe feiert ein neues Format Einzug bei Kontext: Die neue Serie "Kurz und rechts" des Rechtsextremismus-Experten Anton Maegerle beleuchtet ab jetzt regelmäßig rechtsextreme Entwicklungen in Baden-Württemberg – und manchmal auch darüber h</description>
       <category>Gesellschaft</category>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0100</pubDate>
-      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/8/c/csm_spaltung-jre-20260601-Guertel-IM3_8570_23aa91ea75.jpg" type="image/jpeg" length="0" />
-      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/8/c/csm_spaltung-jre-20260601-Guertel-IM3_8570_23aa91ea75.jpg" medium="image" type="image/jpeg" />
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Feigheit vor dem Feind</title>
-      <link>https://www.kontextwochenzeitung.de/kolumne/792/feigheit-vor-dem-feind-10923.html</link>
-      <guid>https://www.kontextwochenzeitung.de/kolumne/792/feigheit-vor-dem-feind-10923.html</guid>
-      <description>Feigheit vor dem Feind</description>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0100</pubDate>
-      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/7/8/csm_wettern792_b75c88d2e6.jpg" type="image/jpeg" length="0" />
-      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/7/8/csm_wettern792_b75c88d2e6.jpg" medium="image" type="image/jpeg" />
+      <title>Lachplatte 21</title>
+      <link>https://www.kontextwochenzeitung.de/politik/793/lachplatte-21-10932.html</link>
+      <guid>https://www.kontextwochenzeitung.de/politik/793/lachplatte-21-10932.html</guid>
+      <description>Inzwischen vergehen nicht mehr viele Jahre, sondern nur noch wenige Monate zwischen den Ankündigungen, dass Stuttgart 21 noch später fertig werden soll. In neuen Berichten ist von einer Inbetriebnahme Ende 2031 die Rede. Die Mängel und Probleme scheinen gravierend zu sein.</description>
+      <category>Politik</category>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/c/9/csm_S21-jre-20260516-Techtation-IMG_5406_0bf65179d8.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/c/9/csm_S21-jre-20260516-Techtation-IMG_5406_0bf65179d8.jpg" medium="image" type="image/jpeg" />
     </item>
     <item>
-      <title>Arbeitskampf am Feldrand</title>
-      <link>https://www.kontextwochenzeitung.de/schaubuehne/792/arbeitskampf-am-feldrand-10922.html</link>
-      <guid>https://www.kontextwochenzeitung.de/schaubuehne/792/arbeitskampf-am-feldrand-10922.html</guid>
-      <description>Auf deutschen Feldern arbeiten dieser Tage viele Menschen aus Osteuropa, vor allem Rumänien. Für Gewerkschaft und Beratungsstellen ist es nicht leicht, mit ihnen in Kontakt zu treten. Ende Mai versuchte es eine Gruppe im Landkreis Esslingen. Zum Unmut der Landwirte.</description>
+      <title>Gemeinsam geht es besser</title>
+      <link>https://www.kontextwochenzeitung.de/gesellschaft/793/gemeinsam-geht-es-besser-10937.html</link>
+      <guid>https://www.kontextwochenzeitung.de/gesellschaft/793/gemeinsam-geht-es-besser-10937.html</guid>
+      <description>"Zusammen Leben Festival"Gemeinsam geht es besser10.06.2026Am 19. und 20. Juni findet erstmals ein bundesweites Festival zum gemeinschaftlichen Bauen und Wohnen statt. Ausgerechnet in Stuttgart, obwohl die Stadt alles andere als ein El Dorado für Baugruppen und Wohnprojekte ist.</description>
+      <category>Gesellschaft</category>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/a/d/csm_Wohnen-jre-20260603-Wolkenheim-IM3_8894_046fbf8a21.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/a/d/csm_Wohnen-jre-20260603-Wolkenheim-IM3_8894_046fbf8a21.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Das Trinkwasser ist bereits belastet</title>
+      <link>https://www.kontextwochenzeitung.de/wirtschaft/793/das-trinkwasser-ist-bereits-belastet-10939.html</link>
+      <guid>https://www.kontextwochenzeitung.de/wirtschaft/793/das-trinkwasser-ist-bereits-belastet-10939.html</guid>
+      <description>Tiefengeothermie am OberrheinDas Trinkwasser ist bereits belastet10.06.2026Der Oberrheingraben ist Hoffnungsraum der Wärmewende und belasteter Wasserspeicher zugleich. In der Tiefe locken heißes Wasser und lithiumhaltige Sole, weiter oben zeigen neue Messdaten, wie stark das Trinkwasser durch Pestiz</description>
+      <category>Wirtschaft</category>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Getriggert von Glitzer und Barbies</title>
+      <link>https://www.kontextwochenzeitung.de/gesellschaft/793/getriggert-von-glitzer-und-barbies-10906.html</link>
+      <guid>https://www.kontextwochenzeitung.de/gesellschaft/793/getriggert-von-glitzer-und-barbies-10906.html</guid>
+      <description>Gewalt gegen Frauen und queere Personen kann vielfältig aussehen: von Beleidigungen bis hin zu Tötungsdelikten. Fakt ist, sie tritt überall auf. In Baden-Württemberg häufen sich in letzter Zeit die Fälle in Heidelberg.</description>
+      <category>Gesellschaft</category>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/e/d/csm_Antifeminismus_IMG_E7042A98C00A-1_edde1cab9c.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/e/d/csm_Antifeminismus_IMG_E7042A98C00A-1_edde1cab9c.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Torwart vor Landschaft</title>
+      <link>https://www.kontextwochenzeitung.de/kolumne/793/torwart-vor-landschaft-10936.html</link>
+      <guid>https://www.kontextwochenzeitung.de/kolumne/793/torwart-vor-landschaft-10936.html</guid>
+      <description>SportfotografieTorwart vor Landschaft10.06.2026Künstlerisch wertvolles Kontrastprogramm für alle, die die WM eher halbherzig verfolgen. Wenn überhaupt. Unser Kolumnist hat den neuen Bildband von Hans van der Meer durchgeblättert – und sich Seite für Seite mehr verliebt.</description>
+      <category>Kolumne</category>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/0/5/csm_kolumne_Sautter_tuerkis_eaa5b0b5ef.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/0/5/csm_kolumne_Sautter_tuerkis_eaa5b0b5ef.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gemeinnütziges Schimmeln</title>
+      <link>https://www.kontextwochenzeitung.de/schaubuehne/793/gemeinnuetziges-schimmeln-10935.html</link>
+      <guid>https://www.kontextwochenzeitung.de/schaubuehne/793/gemeinnuetziges-schimmeln-10935.html</guid>
+      <description>In einem Wohnheim am Stuttgarter Unicampus schimmeln die Wände, im Leitungswasser sind Legionellen. Der Eigentümer: ein gemeinnütziger Verein. Der sieht sich als Opfer einer Rachekampagne.</description>
       <category>Schaubühne</category>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0100</pubDate>
-      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/6/d/csm_Ernte-jre-20260601-Erdbeererntre-IM3_6197_d450b5c61f.jpg" type="image/jpeg" length="0" />
-      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/6/d/csm_Ernte-jre-20260601-Erdbeererntre-IM3_6197_d450b5c61f.jpg" medium="image" type="image/jpeg" />
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/5/f/csm_Pfaff-jre-20260601-Pfaffenhof-IM3_6908_becab0f671.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.kontextwochenzeitung.de/fileadmin/_processed_/5/f/csm_Pfaff-jre-20260601-Pfaffenhof-IM3_6908_becab0f671.jpg" medium="image" type="image/jpeg" />
     </item>
   </channel>
 </rss>
